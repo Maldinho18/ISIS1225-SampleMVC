@@ -32,9 +32,9 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Student No. 1 Juan Sebastián Maldonado Manrique, 202311840, js.maldonado2
-1. Student No. 2 Miguel Florez, 202317266, m.florezg2
-1. Student No. 3 Felipe Romero, 202312395, f.romeroa
+1. Student No. 1 Juan Sebastián Maldonado Manrique, 202311840, js.maldonado2@uniandes.edu.co
+1. Student No. 2 Miguel Florez, 202317266, m.florezg2@uniandes.edu.co
+1. Student No. 3 Felipe Romero, 202312395, f.romeroa@uniandes.edu.co
 
 [Back to top](#sample-mvc)
 
